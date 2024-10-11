@@ -129,10 +129,6 @@ img {
  ************************************************/
  
  @media screen and (max-width:1140px) {
-    .container {
-        width: 100%;
-        max-width: 1000px;
-    }
     .lessons,
     .steps,
     .why-us {
