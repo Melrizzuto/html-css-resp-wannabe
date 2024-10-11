@@ -138,7 +138,6 @@ img {
         align-items: center;
         margin: 0;
     }
-
     .col{
         padding-bottom: 40px;
     }
@@ -169,6 +168,11 @@ img {
     .why-us{
         background-color: black;
     }
-
+    h1{
+        font-size: 3em;
+    }
+    h2{
+        font-size: 3em;
+    }
 }
 
