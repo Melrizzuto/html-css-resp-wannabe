@@ -129,7 +129,10 @@ img {
  ************************************************/
  
  @media screen and (max-width:1140px) {
-
+    .container {
+        width: 100%;
+        max-width: 1000px;
+    }
     .lessons,
     .steps,
     .why-us {
@@ -140,6 +143,7 @@ img {
     }
     .col{
         padding-bottom: 40px;
+        width: 100%;
     }
     h2{
         padding-top: 20px;
@@ -148,6 +152,10 @@ img {
 
 @media screen and (max-width:768px) {
 
+    .container {
+        padding: 0 15px; 
+    }
+    
     img {
         flex-shrink: 0;
         margin-bottom: 40px;
@@ -183,4 +191,3 @@ img {
     }
    
 }
-
