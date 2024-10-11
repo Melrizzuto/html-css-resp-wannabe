@@ -168,11 +168,13 @@ img {
     .why-us{
         background-color: black;
     }
-    h1{
+    
+    h1,
+    h2,
+    h3,
+    p{
         font-size: 3em;
     }
-    h2{
-        font-size: 3em;
-    }
+   
 }
 
